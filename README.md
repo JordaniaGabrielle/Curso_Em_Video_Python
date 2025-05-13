@@ -1,10 +1,10 @@
-# 🚀 Mundo Python - Exercícios 1, 2 e 3  
+# 🚀 Mundo Python - Curso 1, 2 e 3  
 
 Este repositório contém minha jornada pelos exercícios do curso **Mundo Python** do Gustavo Guanabara. Aqui, vou registrar e resolver todos os **100 exercícios**, cobrindo desde conceitos básicos até tópicos mais avançados.  
 
 ## 📌 Estrutura  
 
-Os exercícios estão organizados por módulos:  
+Os exercícios estão organizados por Curso:  
 - 🟢 **Mundo 1** - Fundamentos do Python  
 - 🔵 **Mundo 2** - Estruturas condicionais e laços  
 - 🟣 **Mundo 3** - Funções e manipulação de dados  
