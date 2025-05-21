@@ -13,3 +13,5 @@
 # 7 - Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média
 
 # 8 - Escrve um progrma que leia um valor em metros e o exiba convertido em centi´metros e milímetros.
+
+# 9 - # Faça um programa que leia um número inteiro qualquer e mostre na sua tabuada.
