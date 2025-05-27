@@ -42,3 +42,6 @@
 
 # 19 - Um professor quer sortear um dos seus quatros alunos para apagar o quadro.
 # Faça um programa que ajude ele, lendo o nome deles e esquevrendo o nome do escolhido
+
+# 20 - O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos 
+# de trabalhos dos alunos. Faça um programa que leia o nome dos 4 alunos e mostre sorteada.

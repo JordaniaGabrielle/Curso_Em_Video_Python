@@ -8,8 +8,9 @@ alunos = []
 lista = int(input('Quantos alunos vai sortear? '))
 
 while count < lista:
-    nome = input("Digite o nome dos alunos para sortear ")
-    alunos.append(nome)    
     count += 1
+
+    nome = input(f"Digite o nome do {count}* aluno:  ")
+    alunos.append(nome)
 
 print(f'O aluno sorteado: {choice(alunos)}')
