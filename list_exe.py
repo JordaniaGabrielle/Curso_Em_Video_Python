@@ -27,7 +27,18 @@
 
 # 14 - Escreva um programa que converta uma temperatura digitada em C* e converta para f*
 
-# 15 - # Escreva um programa que pergunte a quantidade de KM percorridos por um carro 
+# 15 - Escreva um programa que pergunte a quantidade de KM percorridos por um carro 
 # alugado e a quantidade de dias pelos quais ele foi alugado
 # Calcule o preco a pagar. Sabendo que o carro custa R$60 por dia e R$0,15 por KM rodado
 
+# 16 - Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção inteira.
+# exemplo: entrada: 6.345 ... Saida: 6
+
+# 17 - Faça um programa que leia o comprimento do cateto oposto e do cateto adjecente de um triãngulo retângulo
+# calcule e mostre o comprimento da hipotenusa
+
+# 18 - Faça um programa que leia um ângulo qualquer e mostre na tela o valor do
+#  seno casseno e tangente desse ângulo.
+
+# 19 - Um professor quer sortear um dos seus quatros alunos para apagar o quadro.
+# Faça um programa que ajude ele, lendo o nome deles e esquevrendo o nome do escolhido

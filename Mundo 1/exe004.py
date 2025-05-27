@@ -15,3 +15,11 @@ print("É alfanumérico ?", algo.isalnum())
 print("Esta em maiúsculas? ", algo.isupper())
 
 print("Esta em minúsculas", algo.islower())
+
+# isUpperCase / saber é maiusclo  ....  
+
+#isLowerCase #  / saber se é minusculo
+
+# console.log (typeof algo) / saber qual o tipo
+
+# algo.includes(" ") / Identificar se tem espaços
