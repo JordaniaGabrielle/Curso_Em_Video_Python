@@ -45,3 +45,39 @@
 
 # 20 - O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos 
 # de trabalhos dos alunos. Faça um programa que leia o nome dos 4 alunos e mostre sorteada.
+
+# 21 - Faça um programa em python que abra e reproduza o audio de um arquivo MP3
+
+# 22 - # Crie um programa que leia o nome completo de uma pessoa e mostre:
+# O nome com todas as letras maiúsculas e minúsculas.
+# Quantas letras ao todo (Sem considerar espaços).
+# Quantas letras tem o primeiro nome.
+
+# 23 - Faça um programa que leia um número de 0 a 9999 e mostre na tela cada 
+# um dos digitos separados. 
+# Ex: digite um número: 1834
+# Unidade: 4
+# dezena: 3
+# centena: 8
+# milhar: 1
+
+# 24 - Crie um programa que leia o nome de uma cidade e diga se ela 
+# começa ou não com o nome "Santo"
+
+# 25 - crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+
+# 26 - Faça um programa que leia uma frase pelo teclado e mostre:
+# Quantas vezes aparece a letra ¨A¨
+# Em que posição ela aparece a primeira vez
+# Em que posição ela aparece a última vez
+
+# 27 - faça um programa que leia o nome completo de uma pessoa,
+# mostrando em seguida o primeiro e o último nome separadamente.
+# ex: Ana Maria de Souza
+# primeiro = Ana
+# último = Souza
+
+# 28 - Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5
+# E peça para o usuário tentar descobrir qual foi o número escolhido pelo computador.
+# O programa deverá escrever na tela se o usuário venceu ou perdeu.
+
