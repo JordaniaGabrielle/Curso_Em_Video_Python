@@ -8,7 +8,7 @@ from time import sleep
 
 computador = randint(0, 5)
 
-jogador = int(input('Tente acertar o numero entre 0 e 5 que estou pensando...'))
+jogador = int(input('Tente acertar o numero entre 0 e 5 que estou pensando...  '))
 
 sleep(1)
 print('...Loading...')
