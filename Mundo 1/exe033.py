@@ -21,3 +21,8 @@ if lista:
     print('O menor número é: ', min(lista))
 else:
     print('Nenhum número foi add')
+
+
+print(lista)
+
+#hot-reload
