@@ -99,5 +99,6 @@
 # Para salários superiores a 1250.00 calcule um aumento de 10%
 # Para os inferiores ou iguais o aumento é de 15%
 
-
+# 35 - Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se ela podem
+# ou não formar um triângulo.
 
