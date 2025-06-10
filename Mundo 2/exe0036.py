@@ -13,8 +13,10 @@ prestacao =   (valor_casa / ( quitar * 12))
 
 limite = salario * 0.3
 
-if prestacao > limite:
-    print(f'Aprovado ')
+if prestacao <= limite:
+    print(f'Aprovado voce pagara {prestacao:.2f} de prestação ')
+else:
+    print(f'Negado, infelizmente compromete mais que 30 % do seu salario')
 
 print(prestacao)
 

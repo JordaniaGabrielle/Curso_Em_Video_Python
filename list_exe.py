@@ -102,3 +102,17 @@
 # 35 - Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se ela podem
 # ou não formar um triângulo.
 
+# 36 - Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. O programa vai
+# Perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar
+# Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então então o empréstimo sera negado
+
+# 37 - Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão:
+# 1 - binarios 2 - octal 3 - hexa
+
+# 38 -  Escreva um programa que leia dois números inteiros e compare-os, mostrando na tela uma mensagem:
+# - O primeiro valor é maior - O segundo valor é maior - Não existe valor maior, os dois sao iguais
+
+# 39 - Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade, se ele ainda vai se alistar
+# ao serviço militar, se é a hora de se alistar ou se já passou do tempo do alistamento.
+# Seu programa tambem devera mostrar o tempo que faltou ou que passou do prazo
+
