@@ -14,6 +14,6 @@ if idade < 17:
     print(f'Voce ainda vai se alistar em {anos} anos ')
 elif idade > 18:
     anos = idade - 18
-    print(f'Voce passou do tempo de se alistar, era pra ter se alistado em {anos} atrs')
+    print(f'Voce passou do tempo de se alistar, era pra ter se alistado em {anos} atras')
 else:
     print('É hora de se alistar')
